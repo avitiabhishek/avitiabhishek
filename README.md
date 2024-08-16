@@ -1,8 +1,6 @@
 ![MasterHead](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Engineering Student From India</h3>
-<img align=“right” alt=“Coding” width=“400” src=“[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F1d11s820dgm91.gif&rdt=33948)”>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **JAVA,Python,C**
