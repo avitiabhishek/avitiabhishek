@@ -1,13 +1,13 @@
 ![MasterHead](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Engineering Student From India</h3>
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning and building with **Java**
 
 - 💬 Ask me about **JAVA,Python,C**
 
 - 📫 How to reach me **avitiabhishek1@gmail.com**
 
-- ⚡ Fun fact **I think I am Cool**
+- ⚡ Fun fact **I enjoy solving problems I created 5 minutes ago.😵‍💫➡️😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
